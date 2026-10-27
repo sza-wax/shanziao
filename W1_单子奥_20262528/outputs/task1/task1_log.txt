@@ -1,0 +1,21 @@
+[01_blue_bright.jpg] 读取成功: 宽=640 高=480 通道数=3 dtype=uint8
+  保存并校验通过: outputs\task1\01_blue_bright_1_resize.png  shape=(240, 320, 3)
+  保存并校验通过: outputs\task1\01_blue_bright_2_crop.png  shape=(288, 384, 3)
+  保存并校验通过: outputs\task1\01_blue_bright_3_gray.png  shape=(480, 640)
+  保存并校验通过: outputs\task1\01_blue_bright_4_compare.png  shape=(528, 704, 3)
+[02_green_dim.jpg] 读取成功: 宽=640 高=480 通道数=3 dtype=uint8
+  保存并校验通过: outputs\task1\02_green_dim_1_resize.png  shape=(240, 320, 3)
+  保存并校验通过: outputs\task1\02_green_dim_2_crop.png  shape=(288, 384, 3)
+  保存并校验通过: outputs\task1\02_green_dim_3_gray.png  shape=(480, 640)
+  保存并校验通过: outputs\task1\02_green_dim_4_compare.png  shape=(528, 704, 3)
+[03_orange_clutter.jpg] 读取成功: 宽=640 高=480 通道数=3 dtype=uint8
+  保存并校验通过: outputs\task1\03_orange_clutter_1_resize.png  shape=(240, 320, 3)
+  保存并校验通过: outputs\task1\03_orange_clutter_2_crop.png  shape=(288, 384, 3)
+  保存并校验通过: outputs\task1\03_orange_clutter_3_gray.png  shape=(480, 640)
+  保存并校验通过: outputs\task1\03_orange_clutter_4_compare.png  shape=(528, 704, 3)
+[04_hard_lowlight.jpg] 读取成功: 宽=640 高=480 通道数=3 dtype=uint8
+  保存并校验通过: outputs\task1\04_hard_lowlight_1_resize.png  shape=(240, 320, 3)
+  保存并校验通过: outputs\task1\04_hard_lowlight_2_crop.png  shape=(288, 384, 3)
+  保存并校验通过: outputs\task1\04_hard_lowlight_3_gray.png  shape=(480, 640)
+  保存并校验通过: outputs\task1\04_hard_lowlight_4_compare.png  shape=(528, 704, 3)
+原始图片校验: 全部未被修改（sha256 前后一致）

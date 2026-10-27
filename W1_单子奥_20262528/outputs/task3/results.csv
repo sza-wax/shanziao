@@ -1,0 +1,5 @@
+﻿image,color,detected,cx,cy,area,bbox,n_contours,n_kept,hsv_lower,hsv_upper,min_area,note
+01_blue_bright.jpg,blue,True,209,250,24834,"(121, 161, 179, 179)",1,1,"(100, 120, 70)","(130, 255, 255)",614,
+02_green_dim.jpg,green,True,429,299,19086,"(333, 221, 194, 157)",1,1,"(40, 90, 60)","(85, 255, 255)",614,
+03_orange_clutter.jpg,orange,True,330,225,13492,"(255, 166, 151, 119)",1,1,"(8, 120, 80)","(25, 255, 255)",614,
+04_hard_lowlight.jpg,orange,False,,,,,0,0,"(8, 120, 80)","(25, 255, 255)",614,"默认阈值漏检，见 README 失败案例；放宽 V 下限到 40 后检出 center=(349, 249) area=10637"
